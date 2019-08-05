@@ -1,0 +1,39 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Solution",
+            "request": "launch",
+            "mainClass": "Intro.Solution",
+            "projectName": "java-lc_b1a05d76"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Intro",
+            "request": "launch",
+            "mainClass": "Intro.Intro",
+            "projectName": "java-lc_b1a05d76"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Intro",
+            "request": "launch",
+            "mainClass": "intro.Intro",
+            "projectName": "java-lc_b1a05d76"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Hello",
+            "request": "launch",
+            "mainClass": "intro.Hello",
+            "projectName": "java-lc_b1a05d76"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "intro.Hello.src.app.App",
+            "projectName": "java-lc_b1a05d76"
+        }
+    ]
+}
